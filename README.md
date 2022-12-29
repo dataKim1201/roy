@@ -1,6 +1,6 @@
 👋 Hi, my name is Hanseong Kim.    
-🌐 I am mainly conducting research on QuestionAnswering(QA) methods derived from Natural Language Processing(NLP).
-💼 And Currently, I am training boostcamp AI Tech 4th at the NAVER Connect Foundation, and I am stepping on the NLP domain track
+🌐 I am mainly conducting research on QuestionAnswering(QA) methods derived from Natural Language Processing(NLP).  
+💼 And Currently, I am training boostcamp AI Tech 4th at the NAVER Connect Foundation, and I am stepping on the NLP domain track. 
 💬 If you have any questions about project or collaboration, please contact me through SNS.   
 
 
